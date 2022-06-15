@@ -17,7 +17,7 @@
 63C:\Users\timti\repos\weather-app\node_modules\@msgpackr-extract132996121977442004 1
 63C:\Users\timti\repos\weather-app\node_modules\svgo\lib\style.js121436361000000000 0
 95C:\Users\timti\repos\weather-app\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js121436361000000000 0
-37C:\Users\timti\repos\weather-app\dist132997684569701009 1
+37C:\Users\timti\repos\weather-app\dist132997687459093775 1
 77C:\Users\timti\repos\weather-app\node_modules\caniuse-lite\data\regions\GF.js121436361000000000 0
 87C:\Users\timti\repos\weather-app\node_modules\electron-to-chromium\chromium-versions.js121436361000000000 0
 66C:\Users\timti\repos\weather-app\node_modules\type-fest\index.d.ts121436361000000000 0
@@ -3897,7 +3897,7 @@
 124C:\Users\timti\repos\weather-app\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json121436361000000000 0
 80C:\Users\timti\repos\weather-app\node_modules\@jridgewell\set-array\package.json132996121985894982 0
 84C:\Users\timti\repos\weather-app\node_modules\@parcel\core\test\fixtures\module-a.js121436361000000000 0
-56C:\Users\timti\repos\weather-app\dist\index.7705b9ce.css132997684569601277 0
+56C:\Users\timti\repos\weather-app\dist\index.7705b9ce.css132997687459093775 0
 115C:\Users\timti\repos\weather-app\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js121436361000000000 0
 119C:\Users\timti\repos\weather-app\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\package.json121436361000000000 0
 122C:\Users\timti\repos\weather-app\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0132996121933937746 1
@@ -4053,7 +4053,7 @@
 80C:\Users\timti\repos\weather-app\node_modules\@parcel\core\lib\ReporterRunner.js121436361000000000 0
 71C:\Users\timti\repos\weather-app\node_modules\@parcel\core\lib\requests132996121946869958 1
 88C:\Users\timti\repos\weather-app\node_modules\@parcel\core\lib\serializerCore.browser.js121436361000000000 0
-59C:\Users\timti\repos\weather-app\dist\index.ffdb29d9.js.map132997684569840636 0
+59C:\Users\timti\repos\weather-app\dist\index.ffdb29d9.js.map132997687459332177 0
 82C:\Users\timti\repos\weather-app\node_modules\@parcel\core\lib\UncommittedAsset.js121436361000000000 0
 76C:\Users\timti\repos\weather-app\node_modules\@parcel\core\lib\Validation.js121436361000000000 0
 98C:\Users\timti\repos\weather-app\node_modules\@babel\highlight\node_modules\supports-color\license131408182550000000 0
@@ -4190,6 +4190,6 @@
 59C:\Users\timti\repos\weather-app\node_modules\.bin\svgo.ps1132996121993730422 0
 57C:\Users\timti\repos\weather-app\node_modules\.bin\terser132996121993780281 0
 61C:\Users\timti\repos\weather-app\node_modules\.bin\terser.cmd132996121993780281 0
-60C:\Users\timti\repos\weather-app\dist\index.7705b9ce.css.map132997684569830722 0
-55C:\Users\timti\repos\weather-app\dist\index.ffdb29d9.js132997684569601277 0
-48C:\Users\timti\repos\weather-app\dist\index.html132997684569601277 0
+60C:\Users\timti\repos\weather-app\dist\index.7705b9ce.css.map132997687459332177 0
+55C:\Users\timti\repos\weather-app\dist\index.ffdb29d9.js132997687459093775 0
+48C:\Users\timti\repos\weather-app\dist\index.html132997687459093775 0
