@@ -15,8 +15,8 @@ async function getLocation(location) {
 
 async function getWeather(location) {
   let coordinates = await getLocation(location);
-  longitude = coordinates[0];
-  latitude = coordinates[1];
+  let longitude = coordinates[0];
+  let latitude = coordinates[1];
   const response = await fetch(
     `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${API_KEY}&units=metric`
   );
